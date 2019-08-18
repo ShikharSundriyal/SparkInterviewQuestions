@@ -1,0 +1,9 @@
+# Default ignored files
+/workspace.xml
+.idea
+*.class
+misc.xml
+*.xml
+scala_compiler.xml
+.cache
+*/project/target/*
