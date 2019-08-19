@@ -15,7 +15,7 @@ Department table
 | 1 |100|
 | 1 |200|
 
-# Question 1 : count the number of people residing in each city, there are 2 tables employee(empid,name,citycode) and city(citycode,cityname)
+# Question 2 : count the number of people residing in each city, there are 2 tables employee(empid,name,citycode) and city(citycode,cityname)
 
 Employee table :
 
