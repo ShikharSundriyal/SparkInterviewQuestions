@@ -51,3 +51,14 @@ Table Right :
 |0|zero|
 |2|two|
 |3|three|
+
+
+# Question 4 : Find avg salary department wise using rdd approach
+
+Input data : 
+
+|DEPT|EMP_NAME|SALARY|
+|---|---|
+|1|RAM|10|
+|2|Shyam|30|
+|1|Vijay|10|
