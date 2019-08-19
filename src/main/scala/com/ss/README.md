@@ -62,3 +62,15 @@ Table Dept :
 |1|RAM|10|
 |2|Shyam|30|
 |1|Vijay|10|
+
+# Question 5 : Find the lowest salary in each department
+
+Table Dept :
+
+|id|amount|
+|---|---|
+|1|100|
+|1|200|
+|2|300|
+|2|50|
+|3|50|
