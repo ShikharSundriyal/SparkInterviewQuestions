@@ -15,7 +15,7 @@ Department table
 | 1 |100|
 | 1 |200|
 
-# Question 2 : count the number of people residing in each city, there are 2 tables employee(empid,name,citycode) and city(citycode,cityname)
+# Question 2 : Count the number of people residing in each city, there are 2 tables employee(empid,name,citycode) and city(citycode,cityname)
 
 Employee table :
 
@@ -34,3 +34,20 @@ City Table :
 |1|delhi|
 |2|punjab|
 |3|mumbai|
+
+# Question 3 : Get all the records from left table which are not present in right table
+
+Table Left : 
+
+|id|left|
+|---|---|
+|0|zero|
+|1|one|
+
+Table Right :
+ 
+|id|right|
+|---|---|
+|0|zero|
+|2|two|
+|3|three|
