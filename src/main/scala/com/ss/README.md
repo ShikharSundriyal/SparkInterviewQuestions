@@ -57,6 +57,8 @@ Table Right :
 
 Input data : 
 
+Dept Table :
+
 |DEPT|EMP_NAME|SALARY|
 |---|---|
 |1|RAM|10|
