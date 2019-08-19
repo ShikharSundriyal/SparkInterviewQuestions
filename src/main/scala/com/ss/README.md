@@ -9,3 +9,7 @@ cust_id | cust_name | yoj
 
 Department table 
     1,100),(1,200),(2,300),(3,50),(4,50)).toDF("id","amount")
+|id |amount|
+|---|------|
+| 1 |100   |
+| 1 |200   |
